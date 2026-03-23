@@ -1,0 +1,4 @@
+DNA SEQUENCE ANALYZER — RESULTS
+Generated: 23-03-2026 09:18:19
+==================================================
+[Sequence 1] Invalid sequence! Only A, T, G, C allowed.
