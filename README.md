@@ -97,7 +97,6 @@ Interpretation      : Balanced GC content
 **Padma Shree**
 Bioinformatics + Tech Enthusiast | Python | R | Bash
 
----
 
 ## 📄 License
 MIT License — feel free to use and build on this! 😊
